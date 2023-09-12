@@ -1,5 +1,5 @@
 # ESAC_MODEL
-The code and data included in this repository are intended to support analysis of hydroclimatic processes and a local governance scale. 
+The code and data included in this repository are intended to support analysis of hydroclimatic processes at a local governance scale. 
 
 This repository includes all code required to processes data for evaluating exposure, sensitivity, adaptive capacity, vulnerability,
 & resilience in 13 local governance units in the western US. 
