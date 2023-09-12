@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin/>
+        <pubdate>20121201</pubdate>
+        <title>100-Meter Resolution Elevation of the Conterminous United States</title>
+        <geoform>raster digital data</geoform>
+        <pubinfo>
+          <pubplace/>
+          <publish>National Atlas of the United States</publish>
+        </pubinfo>
+        <othercit>These data were downloaded from the National Atlas website (http://www.nationalatlas.gov/atlasftp.html) in August 2014.</othercit>
+        <onlink>http://purl.stanford.edu/zz186ss2071</onlink>
+        <lworkcit>
+          <citeinfo>
+            <pubdate>19980101</pubdate>
+            <title>National Atlas of the United States of America, 1997-2014</title>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This layer is a georeferenced raster image displaying elevation data for the conterminous United States. These data were derived from the National Elevation Dataset (NED) released in October, 2012, The elevation data shows the terrain at a resolution of 100 meters. The NED is a raster product assembled by the U.S. Geological Survey, designed to provide national elevation data in a seamless form with a consistent datum, elevation unit, and projection. Data corrections made in the NED assembly process minimize artifacts, permit edge matching, and fill sliver areas of missing data. The NED is updated on a bi-monthly basis. This layer is part of the 1997-2014 edition National Atlas of the United States.</abstract>
+      <purpose>The 100-meter resolution elevation data were developed to portray the terrain of the United States at 1:1,000,000 scale. They are intended primarily for visual purposes. The original NED data should be used for conducting analysis and determining the most accurate elevation values. No responsibility is assumed by the National Atlas of the United States in the use of these data.</purpose>
+      <supplinf>Included with the GeoTIFF are an auxiliary information file (.aux.xml), an image overview file (.ovr), a value attribute database file (.vat.dbf), a .tfw file (more information included below), and a .prj file (more information included below.) The contents of the associated world file (.tfw) are: &gt;100.0 &gt;0.0 &gt;0.0 &gt;-100.0 &gt;-2539950.0 &gt;3257950.0 The projection (.prj) file contains the following information: &gt;PROJCS["Albers_NAD83_L48", &gt;GEOGCS["GCS_North_American_1983", &gt;DATUM["D_North_American_1983", &gt;SPHEROID["GRS_1980",6378137.0,298.257222101]], &gt;PRIMEM["Greenwich",0.0], &gt;UNIT["Degree",0.0174532925199433]], &gt;PROJECTION["Albers"], &gt;PARAMETER["False_Easting",0.0], &gt;PARAMETER["False_Northing",0.0], &gt;PARAMETER["Central_Meridian",-96.0], &gt;PARAMETER["Standard_Parallel_1",29.5], &gt;PARAMETER["Standard_Parallel_2",45.5], &gt;PARAMETER["Latitude_Of_Origin",23.0], &gt;UNIT["Meter",1.0]] Data set extent in meters (Albers Equal-Area Conic projection) &gt;North 3258000 &gt;West -2540000 &gt;East 2441000 &gt;South 119000 There are no NULL or NODATA values in the GeoTIFF. Instead, all elevation values in oceans have been set to zero as part of the masking process. A copy of the land/water mask used in processing is available on request. Information about National Atlas Web services can be found on the Web Map and Web Feature Services page; see &lt;http://nationalatlas.gov/infodocs/webservices.html&gt;.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20121001</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Source data publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-130.573795</westbc>
+        <eastbc>-62.664008</eastbc>
+        <northbc>52.394589</northbc>
+        <southbc>21.111398</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>lcsh</themekt>
+        <themekey>Digital elevation models</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+        <themekey>elevation</themekey>
+      </theme>
+      <place>
+        <placekt>geonames</placekt>
+        <placekey>Alabama</placekey>
+        <placekey>Arizona</placekey>
+        <placekey>Arkansas</placekey>
+        <placekey>Colorado</placekey>
+        <placekey>Connecticut</placekey>
+        <placekey>Delaware</placekey>
+        <placekey>Florida</placekey>
+        <placekey>Georgia</placekey>
+        <placekey>Idaho</placekey>
+        <placekey>Illinois</placekey>
+        <placekey>Indiana</placekey>
+        <placekey>Iowa</placekey>
+        <placekey>Kansas</placekey>
+        <placekey>Kentucky</placekey>
+        <placekey>Louisiana</placekey>
+        <placekey>Maine</placekey>
+        <placekey>Maryland</placekey>
+        <placekey>Massachusetts</placekey>
+        <placekey>Michigan</placekey>
+        <placekey>Minnesota</placekey>
+        <placekey>Mississippi</placekey>
+        <placekey>Missouri</placekey>
+        <placekey>Montana</placekey>
+        <placekey>Nebraska</placekey>
+        <placekey>Nevada</placekey>
+        <placekey>New Hampshire</placekey>
+        <placekey>New Jersey</placekey>
+        <placekey>New Mexico</placekey>
+        <placekey>New York (State)</placekey>
+        <placekey>North Carolina</placekey>
+        <placekey>North Dakota</placekey>
+        <placekey>Ohio</placekey>
+        <placekey>Oklahoma</placekey>
+        <placekey>Oregon</placekey>
+        <placekey>Pennsylvania</placekey>
+        <placekey>Rhode Island</placekey>
+        <placekey>Rocky Mountains</placekey>
+        <placekey>South Carolina</placekey>
+        <placekey>South Dakota</placekey>
+        <placekey>Tennessee</placekey>
+        <placekey>Texas</placekey>
+        <placekey>Utah</placekey>
+        <placekey>Vermont</placekey>
+        <placekey>Virginia</placekey>
+        <placekey>Washington (D.C.)</placekey>
+        <placekey>Washington (State)</placekey>
+        <placekey>West Virginia</placekey>
+        <placekey>Wisconsin</placekey>
+        <placekey>Wyoming</placekey>
+        <placekey>United States</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2012</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>This item is in the public domain.</accconst>
+    <useconst>Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>John Hutchinson</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>47914 252nd Street</address>
+          <city>Sioux Falls</city>
+          <state>South Dakota</state>
+          <postal>57198-0001</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>1 605 594 6049</cntvoice>
+        <cntfax>1 605 594 6529</cntfax>
+        <cntemail>atlasmail@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>National Atlas of the United States. (2012). 100-Meter Resolution Elevation of the Conterminous United States. National Atlas of the United States. Available at: http://purl.stanford.edu/zz186ss2071.</datacred>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.1.4959</native>
+  </idinfo>
+  <dataqual>
+    <logic>No tests for logical consistency have been performed on this map layer.</logic>
+    <complete>Data completeness reflects the content of the original NED elevation data.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin/>
+            <pubdate>20121001</pubdate>
+            <title>National Elevation Dataset, 1 arc-second</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace/>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>http://ned.usgs.gov/downloads/documents/NED_Release_Notes_Oct12.pdf</othercit>
+            <onlink>http://ned.usgs.gov</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>onLine</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20121001</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>Publication date</srccurr>
+        </srctime>
+        <srccitea>NED Oct12</srccitea>
+        <srccontr>Spatial and attribute information</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin/>
+            <pubdate>20120701</pubdate>
+            <title>1:1,000,000-Scale Coastlines of the United States</title>
+            <geoform>Vector digital data</geoform>
+            <onlink>&lt;http://nationalatlas.gov/atlasftp-1m.html&gt;</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>1000000</srcscale>
+        <typesrc>onLine</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20120701</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>Publication date</srccurr>
+        </srctime>
+        <srccitea>National Atlas Coastline 1:1M</srccitea>
+        <srccontr>Spatial and attribute information.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Four elevation mosaics were extracted from the National Elevation Dataset and used to produce elevation data files of the conterminous United States, Alaska, Hawaii, and Puerto Rico and the U.S. Virgin Islands. This map layer includes the data file for the conterminous United States. Elevations in NED are stored in NAD83 geographic coordinates as 32-bit signed floating point data at 1-arc-second resolution. Extracted data were converted to 16-bit signed integer, projected to the NAD83 Albers Equal-Area Conic projection with a pixel size of 100 meters, and the data extent was set to match the National Atlas neatline extent for the subject area. The conterminous United States data set includes elevation data for the parts of Canada and Mexico that fall within the extent listed. Using the ArcGIS Feature-to-Raster command, a 0/1 land/water mask for the conterminous United States was created from the 1:1,000,000-scale National Atlas coastline, at the same 100-meter resolution and with the same extent as the elevation data. The land/water mask was applied to the elevation grid with a software routine that used the ArcGIS Multiply command to clip elevation values that fell in ocean areas. The routine used the ArcGIS Nibble command to fill out elevation values to the coastline. Ocean and non-U.S. areas are set to an elevation value of 0. An intermediate product that has these values set to Null (or Nodata) is available on request. The land/water mask is also available on request.</procdesc>
+        <srcused>National Atlas Coastline 1:1M</srcused>
+        <srcused>NED Oct12</srcused>
+        <procdate>20120101</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Pixel</rasttype>
+      <rowcount>31390</rowcount>
+      <colcount>49810</colcount>
+    </rastinfo>
+  </spdoinfo>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>elev48i0100a.tif.vat</enttypl>
+        <enttypd>Any of the data elements in the elevation file.</enttypd>
+        <enttypds>National Atlas of the United States</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Value</attrlabl>
+        <attrdef>Elevation values in the TIFF image.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>Count</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Stanford Geospatial Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>physical</addrtype>
+          <address>Branner Earth Sciences Library</address>
+          <address>Mitchell Building, 2nd Floor</address>
+          <address>397 Panama Mall</address>
+          <city>Stanford</city>
+          <state>California</state>
+          <postal>94305</postal>
+        </cntaddr>
+        <cntvoice>650-723-2746</cntvoice>
+        <cntemail>brannerlibrary@stanford.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20151012</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Stanford Geospatial Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>physical</addrtype>
+          <address>Branner Earth Sciences Library</address>
+          <address>Mitchell Building, 2nd Floor</address>
+          <address>397 Panama Mall</address>
+          <city>Stanford</city>
+          <state>California</state>
+          <postal>94305</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>650-723-2746</cntvoice>
+        <cntemail>brannerlibrary@stanford.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metscs>None</metscs>
+      <metsc>Unclassified</metsc>
+      <metshd>None</metshd>
+    </metsi>
+  </metainfo>
+</metadata>
